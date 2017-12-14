@@ -11,4 +11,4 @@ Just [download from here](https://github.com/ahornero/deformatter/raw/master/Def
 Press *Ctrl-Shift-v* to paste text without format, like Chromium / Google Chrome.
 
 ### Limitations
-Only available for Windows OS. On the latest versions of Ubuntu you can paste text sans the formatting using the same keyboard shortcut. If not, give a try to a clipboard manager like [Parcellite](http://parcellite.sourceforge.net/), it's a nice alternative.
+Only available for Windows OS. On the latest versions of Ubuntu you can paste text without using additional tools like this, through the same keyboard shortcut. If you need more, give a try to a clipboard manager like [Parcellite](http://parcellite.sourceforge.net/), it's a nice alternative.

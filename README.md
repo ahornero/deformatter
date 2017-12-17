@@ -5,9 +5,13 @@
 # Deformatter
 A lightweight tool to remove the formatting when you paste text. It's an open-source and easier alternative to [PureText](http://www.stevemiller.net/puretext/).
 
-## Install and usage
-Just [download from here](https://github.com/ahornero/deformatter/raw/master/Deformatter.exe), move it where you want and execute it.
+## Install
 
+**Installer**: [Deformatter_setup.exe](https://github.com/ahornero/deformatter/raw/master/Deformatter_setup.exe) - Press the Next button, then accept the license and that's all!
+
+**Portable**: Just [download it from here](https://github.com/ahornero/deformatter/raw/master/Deformatter.exe), move it where you want and execute it; as easier as expected.
+
+## Usage
 Press *Ctrl-Shift-v* to paste text without format, like Chromium / Google Chrome.
 
 ### Limitations
